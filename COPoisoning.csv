@@ -1,0 +1,16 @@
+Host,Dopant,Agg
+Cu,Pt,0.1558
+Cu,Pd,0.1056
+Cu,Rh,0.126
+Cu,Ir,0.004
+Cu,Ni,0.002
+Ag,Pt,0.0497
+Ag,Pd,0.0716
+Ag,Rh,-0.0158
+Ag,Ir,-0.3218
+Ag,Ni,-0.011
+Au,Pt,0.0229
+Au,Pd,0.0754
+Au,Rh,0.0441
+Au,Ir,-0.2459
+Au,Ni,0.06
