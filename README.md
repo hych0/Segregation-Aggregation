@@ -11,3 +11,9 @@ Lu, Zhuole, et al. “Predicting Aggregation Energy for Single Atom Bimetallic C
   - Host: Cu
   - Dopant: 38 metals
   - Facet: 111 plane
+
+-COPoisoning.csv from:
+Darby, M.T., Sykes, E.C.H., Michaelides, A. et al. Carbon Monoxide Poisoning Resistance and Structural Stability of Single Atom Alloys. Top Catal 61, 428–438 (2018). https://doi.org/10.1007/s11244-017-0882-1
+  - Host: [Cu,Ag.Au]
+  - Dopant: [Pt, Pd, Rh, Ir, Ni]
+  - Facet: FCC (111)
